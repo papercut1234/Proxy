@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{9E23B186-09CA-410C-93F8-34673D28FC55}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Proxy/Subject.cs">
+    <Files>
+      <File FileName="Proxy/Program.cs" Line="1" Column="1" />
+      <File FileName="Proxy/Subject.cs" Line="13" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Proxy PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
